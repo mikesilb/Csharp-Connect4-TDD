@@ -1,0 +1,16 @@
+/Users/michaelsilberstein/launch_academy/reviewing_phase/C#/Connect4TDD/Connect4TDD/Connect4TDD/bin/Debug/Connect4TDD.exe
+/Users/michaelsilberstein/launch_academy/reviewing_phase/C#/Connect4TDD/Connect4TDD/Connect4TDD/bin/Debug/Connect4TDD.pdb
+/Users/michaelsilberstein/launch_academy/reviewing_phase/C#/Connect4TDD/Connect4TDD/Connect4TDD/bin/Debug/Board.Library.dll
+/Users/michaelsilberstein/launch_academy/reviewing_phase/C#/Connect4TDD/Connect4TDD/Connect4TDD/bin/Debug/Chip.Library.dll
+/Users/michaelsilberstein/launch_academy/reviewing_phase/C#/Connect4TDD/Connect4TDD/Connect4TDD/bin/Debug/Move.Library.dll
+/Users/michaelsilberstein/launch_academy/reviewing_phase/C#/Connect4TDD/Connect4TDD/Connect4TDD/bin/Debug/Player.Library.dll
+/Users/michaelsilberstein/launch_academy/reviewing_phase/C#/Connect4TDD/Connect4TDD/Connect4TDD/bin/Debug/Position.Library.dll
+/Users/michaelsilberstein/launch_academy/reviewing_phase/C#/Connect4TDD/Connect4TDD/Connect4TDD/bin/Debug/Board.Library.pdb
+/Users/michaelsilberstein/launch_academy/reviewing_phase/C#/Connect4TDD/Connect4TDD/Connect4TDD/bin/Debug/Chip.Library.pdb
+/Users/michaelsilberstein/launch_academy/reviewing_phase/C#/Connect4TDD/Connect4TDD/Connect4TDD/bin/Debug/Player.Library.pdb
+/Users/michaelsilberstein/launch_academy/reviewing_phase/C#/Connect4TDD/Connect4TDD/Connect4TDD/bin/Debug/Position.Library.pdb
+/Users/michaelsilberstein/launch_academy/reviewing_phase/C#/Connect4TDD/Connect4TDD/Connect4TDD/bin/Debug/Move.Library.pdb
+/Users/michaelsilberstein/launch_academy/reviewing_phase/C#/Connect4TDD/Connect4TDD/Connect4TDD/obj/x86/Debug/Connect4TDD.csprojResolveAssemblyReference.cache
+/Users/michaelsilberstein/launch_academy/reviewing_phase/C#/Connect4TDD/Connect4TDD/Connect4TDD/obj/x86/Debug/Connect4TDD.csproj.CoreCompileInputs.cache
+/Users/michaelsilberstein/launch_academy/reviewing_phase/C#/Connect4TDD/Connect4TDD/Connect4TDD/obj/x86/Debug/Connect4TDD.exe
+/Users/michaelsilberstein/launch_academy/reviewing_phase/C#/Connect4TDD/Connect4TDD/Connect4TDD/obj/x86/Debug/Connect4TDD.pdb

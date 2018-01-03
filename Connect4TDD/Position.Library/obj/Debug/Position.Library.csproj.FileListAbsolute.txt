@@ -1,0 +1,5 @@
+/Users/michaelsilberstein/launch_academy/reviewing_phase/C#/Connect4TDD/Connect4TDD/Position.Library/obj/Debug/Position.Library.csproj.CoreCompileInputs.cache
+/Users/michaelsilberstein/launch_academy/reviewing_phase/C#/Connect4TDD/Connect4TDD/Position.Library/bin/Debug/Position.Library.dll
+/Users/michaelsilberstein/launch_academy/reviewing_phase/C#/Connect4TDD/Connect4TDD/Position.Library/bin/Debug/Position.Library.pdb
+/Users/michaelsilberstein/launch_academy/reviewing_phase/C#/Connect4TDD/Connect4TDD/Position.Library/obj/Debug/Position.Library.dll
+/Users/michaelsilberstein/launch_academy/reviewing_phase/C#/Connect4TDD/Connect4TDD/Position.Library/obj/Debug/Position.Library.pdb
