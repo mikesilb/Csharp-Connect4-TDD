@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProjectGuid>{B8DF7631-FD48-4F40-9D22-2025903ADFCC}</ProjectGuid>
+    <OutputType>Exe</OutputType>
+    <RootNamespace>Connect4TDD</RootNamespace>
+    <AssemblyName>Connect4TDD</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug</OutputPath>
+    <DefineConstants>DEBUG;</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <ExternalConsole>true</ExternalConsole>
+    <PlatformTarget>x86</PlatformTarget>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release</OutputPath>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <ExternalConsole>true</ExternalConsole>
+    <PlatformTarget>x86</PlatformTarget>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Board.Library\Board.Library.csproj">
+      <Project>{243FE1A8-EBB6-4D55-ABD7-0FD110CEA475}</Project>
+      <Name>Board.Library</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Chip.Library\Chip.Library.csproj">
+      <Project>{B124C015-B97D-4B85-A730-B2C2C5917E1D}</Project>
+      <Name>Chip.Library</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Player.Library\Player.Library.csproj">
+      <Project>{BF8CAAC2-B25D-49F2-B4ED-A1F41A0CAFF3}</Project>
+      <Name>Player.Library</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Position.Library\Position.Library.csproj">
+      <Project>{BAFF3665-EA6B-4A71-A765-CA6ED6253DFE}</Project>
+      <Name>Position.Library</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Move.Library\Move.Library.csproj">
+      <Project>{0F5F8B46-7ED0-4257-A7AD-A07A8C19B14A}</Project>
+      <Name>Move.Library</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+</Project>

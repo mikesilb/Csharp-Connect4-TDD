@@ -1,0 +1,52 @@
+﻿<Properties StartupConfiguration="{B8DF7631-FD48-4F40-9D22-2025903ADFCC}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Position.Library.Tests/Test.cs">
+    <Files>
+      <File FileName="Board.Library/Board.cs" Line="4" Column="23" />
+      <File FileName="Chip.Library/Chip.cs" Line="2" Column="15" />
+      <File FileName="Move.Library/Move.cs" Line="2" Column="15" />
+      <File FileName="Player.Library/Player.cs" Line="2" Column="17" />
+      <File FileName="Position.Library/Position.cs" Line="2" Column="19" />
+      <File FileName="Board.Library.Tests/BoardTests.cs" Line="6" Column="23" />
+      <File FileName="Chip.Library.Tests/ChipTests.cs" Line="6" Column="27" />
+      <File FileName="Move.Library.Tests/MoveTests.cs" Line="6" Column="27" />
+      <File FileName="Player.Library.Tests/PlayerTests.cs" Line="14" Column="1" />
+      <File FileName="Position.Library.Tests/Test.cs" Line="6" Column="19" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Connect4TDD" expanded="True">
+            <Node name="Board.Library" expanded="True" />
+            <Node name="Board.Library.Tests" expanded="True" />
+            <Node name="Chip.Library" expanded="True" />
+            <Node name="Chip.Library.Tests" expanded="True" />
+            <Node name="Connect4TDD" expanded="True" />
+            <Node name="Move.Library" expanded="True" />
+            <Node name="Move.Library.Tests" expanded="True" />
+            <Node name="Player.Library" expanded="True" />
+            <Node name="Player.Library.Tests" expanded="True" />
+            <Node name="Position.Library" expanded="True" />
+            <Node name="Position.Library.Tests" expanded="True" selected="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="ClassPad">
+        <State name="__root__">
+          <Node name="Connect4TDD" expanded="True" selected="True" />
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="Connect4TDD" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Connect4TDD PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
