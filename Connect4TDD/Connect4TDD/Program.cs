@@ -1,4 +1,9 @@
 ﻿using System;
+using PlayerLibrary;
+using ChipLibrary;
+using PositionLibrary;
+using MoveLibrary;
+using BoardLibrary;
 
 namespace Connect4TDD
 {
