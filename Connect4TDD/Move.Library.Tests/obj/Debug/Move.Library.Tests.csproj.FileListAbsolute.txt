@@ -1,0 +1,10 @@
+/Users/michaelsilberstein/launch_academy/reviewing_phase/C#/Connect4TDD/Connect4TDD/Move.Library.Tests/bin/Debug/Move.Library.Tests.dll
+/Users/michaelsilberstein/launch_academy/reviewing_phase/C#/Connect4TDD/Connect4TDD/Move.Library.Tests/bin/Debug/Move.Library.Tests.pdb
+/Users/michaelsilberstein/launch_academy/reviewing_phase/C#/Connect4TDD/Connect4TDD/Move.Library.Tests/bin/Debug/Move.Library.dll
+/Users/michaelsilberstein/launch_academy/reviewing_phase/C#/Connect4TDD/Connect4TDD/Move.Library.Tests/bin/Debug/nunit.framework.dll
+/Users/michaelsilberstein/launch_academy/reviewing_phase/C#/Connect4TDD/Connect4TDD/Move.Library.Tests/bin/Debug/Move.Library.pdb
+/Users/michaelsilberstein/launch_academy/reviewing_phase/C#/Connect4TDD/Connect4TDD/Move.Library.Tests/bin/Debug/nunit.framework.xml
+/Users/michaelsilberstein/launch_academy/reviewing_phase/C#/Connect4TDD/Connect4TDD/Move.Library.Tests/obj/Debug/Move.Library.Tests.csprojResolveAssemblyReference.cache
+/Users/michaelsilberstein/launch_academy/reviewing_phase/C#/Connect4TDD/Connect4TDD/Move.Library.Tests/obj/Debug/Move.Library.Tests.csproj.CoreCompileInputs.cache
+/Users/michaelsilberstein/launch_academy/reviewing_phase/C#/Connect4TDD/Connect4TDD/Move.Library.Tests/obj/Debug/Move.Library.Tests.dll
+/Users/michaelsilberstein/launch_academy/reviewing_phase/C#/Connect4TDD/Connect4TDD/Move.Library.Tests/obj/Debug/Move.Library.Tests.pdb

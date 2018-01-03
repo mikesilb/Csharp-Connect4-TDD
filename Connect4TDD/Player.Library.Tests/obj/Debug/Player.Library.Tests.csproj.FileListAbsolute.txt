@@ -1,0 +1,10 @@
+/Users/michaelsilberstein/launch_academy/reviewing_phase/C#/Connect4TDD/Connect4TDD/Player.Library.Tests/obj/Debug/Player.Library.Tests.csprojResolveAssemblyReference.cache
+/Users/michaelsilberstein/launch_academy/reviewing_phase/C#/Connect4TDD/Connect4TDD/Player.Library.Tests/obj/Debug/Player.Library.Tests.csproj.CoreCompileInputs.cache
+/Users/michaelsilberstein/launch_academy/reviewing_phase/C#/Connect4TDD/Connect4TDD/Player.Library.Tests/bin/Debug/Player.Library.Tests.dll
+/Users/michaelsilberstein/launch_academy/reviewing_phase/C#/Connect4TDD/Connect4TDD/Player.Library.Tests/bin/Debug/Player.Library.Tests.pdb
+/Users/michaelsilberstein/launch_academy/reviewing_phase/C#/Connect4TDD/Connect4TDD/Player.Library.Tests/bin/Debug/nunit.framework.dll
+/Users/michaelsilberstein/launch_academy/reviewing_phase/C#/Connect4TDD/Connect4TDD/Player.Library.Tests/bin/Debug/Player.Library.dll
+/Users/michaelsilberstein/launch_academy/reviewing_phase/C#/Connect4TDD/Connect4TDD/Player.Library.Tests/bin/Debug/Player.Library.pdb
+/Users/michaelsilberstein/launch_academy/reviewing_phase/C#/Connect4TDD/Connect4TDD/Player.Library.Tests/bin/Debug/nunit.framework.xml
+/Users/michaelsilberstein/launch_academy/reviewing_phase/C#/Connect4TDD/Connect4TDD/Player.Library.Tests/obj/Debug/Player.Library.Tests.dll
+/Users/michaelsilberstein/launch_academy/reviewing_phase/C#/Connect4TDD/Connect4TDD/Player.Library.Tests/obj/Debug/Player.Library.Tests.pdb
