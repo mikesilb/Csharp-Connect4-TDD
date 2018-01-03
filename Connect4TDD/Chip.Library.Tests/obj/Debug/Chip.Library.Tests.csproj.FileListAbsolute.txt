@@ -8,3 +8,5 @@
 /Users/michaelsilberstein/launch_academy/reviewing_phase/C#/Connect4TDD/Connect4TDD/Chip.Library.Tests/obj/Debug/Chip.Library.Tests.csproj.CoreCompileInputs.cache
 /Users/michaelsilberstein/launch_academy/reviewing_phase/C#/Connect4TDD/Connect4TDD/Chip.Library.Tests/obj/Debug/Chip.Library.Tests.dll
 /Users/michaelsilberstein/launch_academy/reviewing_phase/C#/Connect4TDD/Connect4TDD/Chip.Library.Tests/obj/Debug/Chip.Library.Tests.pdb
+/Users/michaelsilberstein/launch_academy/reviewing_phase/C#/Connect4TDD/Connect4TDD/Chip.Library.Tests/bin/Debug/Player.Library.dll
+/Users/michaelsilberstein/launch_academy/reviewing_phase/C#/Connect4TDD/Connect4TDD/Chip.Library.Tests/bin/Debug/Player.Library.pdb

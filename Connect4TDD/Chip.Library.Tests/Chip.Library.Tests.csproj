@@ -41,6 +41,10 @@
       <Project>{B124C015-B97D-4B85-A730-B2C2C5917E1D}</Project>
       <Name>Chip.Library</Name>
     </ProjectReference>
+    <ProjectReference Include="..\Player.Library\Player.Library.csproj">
+      <Project>{BF8CAAC2-B25D-49F2-B4ED-A1F41A0CAFF3}</Project>
+      <Name>Player.Library</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
 </Project>
