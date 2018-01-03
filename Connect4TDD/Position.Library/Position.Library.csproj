@@ -33,5 +33,11 @@
     <Compile Include="Position.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Chip.Library\Chip.Library.csproj">
+      <Project>{B124C015-B97D-4B85-A730-B2C2C5917E1D}</Project>
+      <Name>Chip.Library</Name>
+    </ProjectReference>
+  </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
 </Project>
