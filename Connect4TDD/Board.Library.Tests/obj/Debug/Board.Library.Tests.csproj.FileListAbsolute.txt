@@ -8,3 +8,9 @@
 /Users/michaelsilberstein/launch_academy/reviewing_phase/C#/Connect4TDD/Connect4TDD/Board.Library.Tests/obj/Debug/Board.Library.Tests.csproj.CoreCompileInputs.cache
 /Users/michaelsilberstein/launch_academy/reviewing_phase/C#/Connect4TDD/Connect4TDD/Board.Library.Tests/obj/Debug/Board.Library.Tests.dll
 /Users/michaelsilberstein/launch_academy/reviewing_phase/C#/Connect4TDD/Connect4TDD/Board.Library.Tests/obj/Debug/Board.Library.Tests.pdb
+/Users/michaelsilberstein/launch_academy/reviewing_phase/C#/Connect4TDD/Connect4TDD/Board.Library.Tests/bin/Debug/Chip.Library.dll
+/Users/michaelsilberstein/launch_academy/reviewing_phase/C#/Connect4TDD/Connect4TDD/Board.Library.Tests/bin/Debug/Player.Library.dll
+/Users/michaelsilberstein/launch_academy/reviewing_phase/C#/Connect4TDD/Connect4TDD/Board.Library.Tests/bin/Debug/Position.Library.dll
+/Users/michaelsilberstein/launch_academy/reviewing_phase/C#/Connect4TDD/Connect4TDD/Board.Library.Tests/bin/Debug/Chip.Library.pdb
+/Users/michaelsilberstein/launch_academy/reviewing_phase/C#/Connect4TDD/Connect4TDD/Board.Library.Tests/bin/Debug/Player.Library.pdb
+/Users/michaelsilberstein/launch_academy/reviewing_phase/C#/Connect4TDD/Connect4TDD/Board.Library.Tests/bin/Debug/Position.Library.pdb
