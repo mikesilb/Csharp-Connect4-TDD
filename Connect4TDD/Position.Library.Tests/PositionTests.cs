@@ -21,11 +21,14 @@ namespace PositionLibrary.Tests
             Position positionD = new Position(new int[] { 3, 4 }, false, computerChip);
 
 
-            Assert.AreEqual(positionA.GetLocation(), "[0, 0]");
+            Assert.AreEqual(positionA.location[0], 0);
+            Assert.AreEqual(positionA.location[1], 0);
             Assert.AreEqual(positionA.GetAvailability(), false);
-            Assert.AreEqual(positionB.GetLocation(), "[4, 3]");
+            Assert.AreEqual(positionB.location[0], 4);
+            Assert.AreEqual(positionB.location[1], 3);
             Assert.AreEqual(positionB.GetAvailability(), true);
-            Assert.AreEqual(positionC.GetLocation(), "[5, 6]");
+            Assert.AreEqual(positionC.location[0], 5);
+            Assert.AreEqual(positionC.location[1], 6);
             Assert.AreEqual(positionC.GetAvailability(), true);
 
             Assert.AreEqual(positionA.GetChipAtPosition(), johnChip);

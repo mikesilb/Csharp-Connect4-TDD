@@ -3,3 +3,4 @@
 /Users/michaelsilberstein/launch_academy/reviewing_phase/C#/Connect4TDD/Connect4TDD/Player.Library/bin/Debug/Player.Library.pdb
 /Users/michaelsilberstein/launch_academy/reviewing_phase/C#/Connect4TDD/Connect4TDD/Player.Library/obj/Debug/Player.Library.dll
 /Users/michaelsilberstein/launch_academy/reviewing_phase/C#/Connect4TDD/Connect4TDD/Player.Library/obj/Debug/Player.Library.pdb
+/Users/michaelsilberstein/launch_academy/reviewing_phase/C#/Connect4TDD/Connect4TDD/Player.Library/obj/Debug/Player.Library.csprojResolveAssemblyReference.cache

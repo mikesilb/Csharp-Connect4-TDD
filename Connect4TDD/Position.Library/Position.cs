@@ -5,13 +5,13 @@ namespace PositionLibrary
 {
     public class Position
     {
-        private int[] _location;
+        public int[] location { get; set; }
         private bool _availability;
         private Chip _chipAtPosition;
 
-        public Position(int[] location, bool availability, Chip chipAtPosition)
+        public Position(int[] thelocation, bool availability, Chip chipAtPosition)
         {
-            _location = location;
+            location = thelocation;
             _availability = availability;
             _chipAtPosition = chipAtPosition;
         }
@@ -26,10 +26,10 @@ namespace PositionLibrary
 
         }
 
-        public string GetLocation()
-        {
-            return $"[{_location[0]}, {_location[1]}]";
-        }
+        //public string GetLocation()
+        //{
+        //    return $"[{_location[0]}, {_location[1]}]";
+        //}
 
         public bool GetAvailability()
         {
