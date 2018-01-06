@@ -41,6 +41,18 @@
       <Project>{0F5F8B46-7ED0-4257-A7AD-A07A8C19B14A}</Project>
       <Name>Move.Library</Name>
     </ProjectReference>
+    <ProjectReference Include="..\Chip.Library\Chip.Library.csproj">
+      <Project>{B124C015-B97D-4B85-A730-B2C2C5917E1D}</Project>
+      <Name>Chip.Library</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Player.Library\Player.Library.csproj">
+      <Project>{BF8CAAC2-B25D-49F2-B4ED-A1F41A0CAFF3}</Project>
+      <Name>Player.Library</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Board.Library\Board.Library.csproj">
+      <Project>{243FE1A8-EBB6-4D55-ABD7-0FD110CEA475}</Project>
+      <Name>Board.Library</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
 </Project>
