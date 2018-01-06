@@ -17,7 +17,7 @@ namespace ChipLibrary
             return _owner;
         }
 
-        public char GetSymbol()
+        public char? GetSymbol()
         {
             return _symbol;
         }

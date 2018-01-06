@@ -26,10 +26,6 @@ namespace PositionLibrary
 
         }
 
-        //public string GetLocation()
-        //{
-        //    return $"[{_location[0]}, {_location[1]}]";
-        //}
 
         public bool GetAvailability()
         {
