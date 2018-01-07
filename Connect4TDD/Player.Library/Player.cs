@@ -45,6 +45,11 @@ namespace PlayerLibrary
             return _numChipsRemain;
         }
 
+        public void SetNumChipsRemain(int numChipsRemain)
+        {
+            _numChipsRemain = numChipsRemain;
+        }
+
         public void DecreaseChips()
         {
             _numChipsRemain--;
