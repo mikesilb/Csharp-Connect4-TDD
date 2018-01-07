@@ -66,7 +66,7 @@ namespace BoardLibrary
                 }
                 else if (theLocation.GetAvailability() == false && theLocation.location[0] == 0)
                 {
-                    Console.Write($"{theLocation.location[1]}|{theLocation.GetChipAtPosition().GetSymbol()}.");
+                    Console.Write($"{theLocation.location[1]}|{theLocation.GetChipAtPosition().GetSymbol()}");
                 }
                 else if (theLocation.GetAvailability() == false)
                 {
