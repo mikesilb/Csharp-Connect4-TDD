@@ -1,9 +1,9 @@
 ﻿<Properties StartupConfiguration="{B8DF7631-FD48-4F40-9D22-2025903ADFCC}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Move.Library/Move.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Connect4TDD/Program.cs">
     <Files>
-      <File FileName="Connect4TDD/Program.cs" Line="14" Column="47" />
+      <File FileName="Connect4TDD/Program.cs" Line="10" Column="17" />
       <File FileName="Board.Library/Board.cs" Line="1" Column="1" />
-      <File FileName="Move.Library.Tests/MoveTests.cs" Line="8" Column="7" />
+      <File FileName="Move.Library.Tests/MoveTests.cs" Line="1" Column="1" />
       <File FileName="Move.Library/Move.cs" Line="1" Column="1" />
       <File FileName="Board.Library.Tests/BoardTests.cs" Line="20" Column="49" />
       <File FileName="Position.Library/Position.cs" Line="1" Column="1" />
@@ -16,17 +16,7 @@
     <Pads>
       <Pad Id="MonoDevelop.UnitTesting.TestPad">
         <State name="__root__">
-          <Node name="Connect4TDD" expanded="True">
-            <Node name="Board.Library.Tests" expanded="True">
-              <Node name="BoardLibrary" expanded="True">
-                <Node name="Tests" expanded="True">
-                  <Node name="BoardTests" expanded="True">
-                    <Node name="TestCheckBoardForVerticalConnect4" selected="True" />
-                  </Node>
-                </Node>
-              </Node>
-            </Node>
-          </Node>
+          <Node name="Connect4TDD" expanded="True" selected="True" />
         </State>
       </Pad>
     </Pads>

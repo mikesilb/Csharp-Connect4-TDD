@@ -8,13 +8,22 @@ namespace PlayerLibrary
         private double _skillLevel;
         private int _numChipsRemain; 
 
-        public Player(string name, int age, double skillLevel, int numChipsRemain)
+        public Player(string name, int age, double skillLevel, int numChipsRemain = 21)
         {
             _name = name;
             _age = age;
             _skillLevel = skillLevel;
             _numChipsRemain = numChipsRemain;
         }
+        public Player(string name, int numChipsRemain = 21)
+        {
+            _name = name;
+            _numChipsRemain = numChipsRemain;
+        }
+        public Player()
+        {
+        }
+
 
         public string GetName()
         {
